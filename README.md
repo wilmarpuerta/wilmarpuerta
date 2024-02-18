@@ -1,5 +1,3 @@
-Encuentra más rápido lo que necesitas … La página principal es tu nueva página de destino y en ella se muestran tus archivos y carpetas más relevantes
-ReadMe.md
 # 💫 About Me:
 Hello! I'm a passionate full stack developer. I love diving into the fascinating world of technology and acquiring new skills at every opportunity. My journey includes exploring both front-end and back-end development, and I enjoy creating innovative solutions that make a difference.<br><br>My commitment to excellence motivates me to tackle challenges and refine my skills continuously. I'm open to learning any technology that enriches my skill set and allows me to build impactful user experiences.<br><br>Currently, I'm working on exciting projects that span various technologies, and I'm always eager to collaborate on interesting initiatives. Connect with me and let's share knowledge to grow our tech community! 🚀
 
